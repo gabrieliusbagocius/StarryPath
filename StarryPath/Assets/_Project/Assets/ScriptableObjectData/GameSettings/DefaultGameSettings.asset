@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de2e09a5538874843aafa5a3a2a693e9, type: 3}
+  m_Name: DefaultGameSettings
+  m_EditorClassIdentifier: 
+  initialSceneName: InitialScene
+  levelSceneName: LevelScene
+  point: {fileID: 7774586390459345109, guid: 76eb3f749915e844ea3114e035374833, type: 3}
+  rope: {fileID: 7321669912752098754, guid: ba1f7974c144925418dbbd616b1d1b69, type: 3}
+  defaultPointVisual: {fileID: 21300000, guid: 721ce6bbc498107408e56d48dc73a112, type: 3}
+  selectedPointVisual: {fileID: 21300000, guid: 602871b460dc8644ea95b51342f495dc, type: 3}
+  backgroundVisual: {fileID: 21300000, guid: f3530a9b2ca98154187ccd3ab0331f51, type: 3}
+  ropeVisuals: {fileID: 21300000, guid: ff9006f2dcde9c44b988bf8a6f704a48, type: 3}
+  pointScoreAmplifier: 1
+  gameSceenRatio: 0.9
+  pointTextAnimationTime: 1
+  ropeAnimationTime: 1
+  variableRopeSpeedTime: 1
+  ropeSpeedModifier: 10
